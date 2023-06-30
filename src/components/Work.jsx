@@ -1,4 +1,11 @@
-import { Summarify, Workout, Weather, LeadTracker, Portfolio } from "../assets";
+import {
+  Summarify,
+  Workout,
+  Weather,
+  LeadTracker,
+  Portfolio,
+  Rekindle,
+} from "../assets";
 import WorkCard from "./WorkCard";
 
 const Work = () => {
@@ -32,6 +39,14 @@ const Work = () => {
               title: "Personal Portfolio",
               demo: "https://judevector.netlify.app/",
               code: "https://github.com/CodeJude/Portfolio",
+            }}
+          />
+          <WorkCard
+            props={{
+              image: Rekindle,
+              title: "Rekindle App",
+              demo: "https://rekindleapp.netlify.app/",
+              code: "https://github.com/CodeJude/Rekindle",
             }}
           />
           <WorkCard

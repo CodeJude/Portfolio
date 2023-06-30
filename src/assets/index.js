@@ -11,6 +11,7 @@ import Weather from "../assets/weather.png";
 import Workout from "../assets/workout.png";
 import LeadTracker from "../assets/leadtracker.png";
 import Portfolio from "../assets/portfolio.png";
+import Rekindle from "../assets/rekindle.png";
 
 export {
   HTML,
@@ -26,4 +27,5 @@ export {
   Workout,
   LeadTracker,
   Portfolio,
+  Rekindle,
 };
