@@ -18,13 +18,13 @@ const About = () => {
           </div>
           <div>
             I'm a passionate developer with expertise in Python, JavaScript,
-            HTML, CSS, and frameworks such as React, NextJs, Flask, Django and
-            Node.js. With a strong foundation in front-end and back-end
-            technologies, I specialize in crafting intuitive and interactive web
-            applications. I thrive on solving complex problems and delivering
-            high-quality, scalable solutions. With a keen eye for detail,
-            continuous learning, and adaptability to emerging technologies.
-            Let's collaborate and bring your ideas to life!
+            HTML, CSS, and frameworks such as React, NextJs, Flask and Node.js.
+            With a strong foundation in front-end and back-end technologies, I
+            specialize in crafting intuitive and interactive web applications. I
+            thrive on solving complex problems and delivering high-quality,
+            scalable solutions. With a keen eye for detail, continuous learning,
+            and adaptability to emerging technologies. Let's collaborate and
+            bring your ideas to life!
           </div>
         </div>
       </div>

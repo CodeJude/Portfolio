@@ -25,12 +25,12 @@ const Skills = () => {
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           <SkillCard props={{ logo: Python, name: "Python" }} />
           <SkillCard props={{ logo: JavaScript, name: "JavaScript" }} />
-          <SkillCard props={{ logo: HTML, name: "HTML" }} />
-          <SkillCard props={{ logo: CSS, name: "CSS" }} />
           <SkillCard props={{ logo: React, name: "React" }} />
           <SkillCard props={{ logo: Node, name: "Node" }} />
-          <SkillCard props={{ logo: Mongo, name: "Mongo" }} />
           <SkillCard props={{ logo: Github, name: "Github" }} />
+          <SkillCard props={{ logo: HTML, name: "HTML" }} />
+          <SkillCard props={{ logo: CSS, name: "CSS" }} />
+          <SkillCard props={{ logo: Mongo, name: "Mongo" }} />
         </div>
       </div>
     </div>
