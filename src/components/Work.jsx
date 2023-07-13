@@ -5,6 +5,7 @@ import {
   LeadTracker,
   Portfolio,
   Rekindle,
+  CryptoFeed,
 } from "../assets";
 import WorkCard from "./WorkCard";
 
@@ -31,6 +32,14 @@ const Work = () => {
               title: "Summarify",
               demo: "https://summarify.netlify.app/",
               code: "https://github.com/CodeJude/Summarify",
+            }}
+          />
+          <WorkCard
+            props={{
+              image: CryptoFeed,
+              title: "CryptoFeed",
+              demo: "https://cryptoofeed.netlify.app/",
+              code: "https://github.com/CodeJude/Crypto-Feed",
             }}
           />
           <WorkCard
