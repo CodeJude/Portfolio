@@ -9,7 +9,6 @@ import Github from "../assets/github.png";
 import Summarify from "../assets/summarify.png";
 import Weather from "../assets/weather.png";
 import Workout from "../assets/workout.png";
-import LeadTracker from "../assets/leadtracker.png";
 import Portfolio from "../assets/portfolio.png";
 import Rekindle from "../assets/rekindle.png";
 import CryptoFeed from "../assets/cryptofeed.png";
@@ -26,7 +25,6 @@ export {
   Summarify,
   Weather,
   Workout,
-  LeadTracker,
   Portfolio,
   Rekindle,
   CryptoFeed,

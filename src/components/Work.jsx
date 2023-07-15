@@ -2,7 +2,6 @@ import {
   Summarify,
   Workout,
   Weather,
-  LeadTracker,
   Portfolio,
   Rekindle,
   CryptoFeed,
@@ -72,14 +71,6 @@ const Work = () => {
               title: "Weather Application",
               demo: "https://weather-app.up.railway.app/",
               code: "https://github.com/CodeJude/weather-app",
-            }}
-          />
-          <WorkCard
-            props={{
-              image: LeadTracker,
-              title: "Chrome Extension",
-              demo: "https://github.com/CodeJude/Lead-Tracker-Extension",
-              code: "https://github.com/CodeJude/Lead-Tracker-Extension",
             }}
           />
         </div>
