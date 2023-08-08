@@ -21,7 +21,7 @@ const Hero = () => {
         </p>
         <div>
           <a
-            href="https://github.com/CodeJude"
+            href="https://github.com/JudeVector"
             target="_blank"
             rel="noreferrer"
           >
