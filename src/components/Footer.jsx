@@ -6,7 +6,7 @@ const Footer = () => {
         <button
           className="text-pink-600"
           href="https://github.com/CodeJude"
-          onClick={() => window.open("https://github.com/CodeJude")}
+          onClick={() => window.open("https://github.com/JudeVector")}
         >
           CodeJude
         </button>
