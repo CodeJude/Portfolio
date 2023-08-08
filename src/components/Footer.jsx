@@ -8,7 +8,7 @@ const Footer = () => {
           href="https://github.com/CodeJude"
           onClick={() => window.open("https://github.com/JudeVector")}
         >
-          CodeJude
+          JudeVector
         </button>
       </p>
     </footer>
