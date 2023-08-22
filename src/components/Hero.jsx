@@ -13,9 +13,9 @@ const Hero = () => {
           I'm a passionate Software developer.
         </h2>
         <p className="py-4 max-w-[700px] text-[#8892b0] ">
-          I'm a Software developer and Technical Writer with a strong foundation
-          in both front-end and back-end technologies. With expertise in
-          languages like JavaScript, Python HTML, CSS, and frameworks such as
+          I'm a Software developer and Technical Writer based with a strong
+          foundation in both front-end and back-end technologies. With expertise
+          in languages like JavaScript, Python HTML, CSS, and frameworks such as
           React, Nextjs, Flask and Node.js, I love building intuitive and
           interactive web applications.
         </p>
