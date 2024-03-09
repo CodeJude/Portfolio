@@ -1,19 +1,9 @@
-import {
-  Summarify,
-  Workout,
-  Weather,
-  Portfolio,
-  Rekindle,
-  CryptoFeed,
-} from "../assets";
+import { Summarify, Workout, Weather, Portfolio, Rekindle, CryptoFeed } from "../assets";
 import WorkCard from "./WorkCard";
 
 const Work = () => {
   return (
-    <div
-      name="work"
-      className="w-full md:h-screen text-gray-300 bg-[#0a192f]  "
-    >
+    <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]  ">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
@@ -30,7 +20,7 @@ const Work = () => {
               image: Summarify,
               title: "Summarify",
               demo: "https://summarify.netlify.app/",
-              code: "https://github.com/CodeJude/Summarify",
+              code: "https://github.com/judevector/Summarify",
             }}
           />
           <WorkCard
@@ -38,7 +28,7 @@ const Work = () => {
               image: CryptoFeed,
               title: "CryptoFeed",
               demo: "https://cryptoofeed.netlify.app/",
-              code: "https://github.com/CodeJude/Crypto-Feed",
+              code: "https://github.com/judevector/Crypto-Feed",
             }}
           />
           <WorkCard
@@ -46,7 +36,7 @@ const Work = () => {
               image: Portfolio,
               title: "Personal Portfolio",
               demo: "https://judevector.netlify.app/",
-              code: "https://github.com/CodeJude/Portfolio",
+              code: "https://github.com/judevector/Portfolio",
             }}
           />
           <WorkCard
@@ -54,7 +44,7 @@ const Work = () => {
               image: Rekindle,
               title: "Rekindle App",
               demo: "https://rekindleapp.netlify.app/",
-              code: "https://github.com/CodeJude/Rekindle",
+              code: "https://github.com/judevector/Rekindle",
             }}
           />
           <WorkCard
@@ -62,7 +52,7 @@ const Work = () => {
               image: Workout,
               title: "Workout Logger",
               demo: "https://workout-logger.up.railway.app/",
-              code: "https://github.com/CodeJude/Workout_Logger",
+              code: "https://github.com/judevector/Workout_Logger",
             }}
           />
           <WorkCard
@@ -70,7 +60,7 @@ const Work = () => {
               image: Weather,
               title: "Weather Application",
               demo: "https://weather-app.up.railway.app/",
-              code: "https://github.com/CodeJude/weather-app",
+              code: "https://github.com/judevector/weather-app",
             }}
           />
         </div>
