@@ -1,3 +1,5 @@
+import { Profile } from "../assets";
+
 const About = () => {
   return (
     <div name="about" className="w-full h-screen bg-[#0a192f] text-gray-300">
@@ -10,8 +12,12 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold ">
-            <p>Hi. I'm Jude, Take a moment to browse and discover who I am.</p>
+            <p>Take a moment to discover who I am.</p>
+            <div className="flex justify-end mt-6 ">
+              <img src={Profile} alt="" className=" w-80 rounded-3xl" />
+            </div>
           </div>
+
           <div>
             I'm a dedicated backend developer with a passion for crafting the backbone of web
             applications. I possess a strong command of languages such as Python and JavaScript,

@@ -12,6 +12,7 @@ import Workout from "../assets/workout.png";
 import Portfolio from "../assets/portfolio.png";
 import Rekindle from "../assets/rekindle.png";
 import CryptoFeed from "../assets/cryptofeed.png";
+import Profile from "../assets/profile.jpg";
 
 export {
   HTML,
@@ -28,4 +29,5 @@ export {
   Portfolio,
   Rekindle,
   CryptoFeed,
+  Profile,
 };
