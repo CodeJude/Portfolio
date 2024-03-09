@@ -1,11 +1,6 @@
 import { useState } from "react";
-import {
-  FaBars,
-  FaTimes,
-  FaGithub,
-  FaLinkedin,
-  FaTwitter,
-} from "react-icons/fa";
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { BsTwitterX } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
 import { Link } from "react-scroll";
 import { BsFillPersonLinesFill } from "react-icons/bs";
@@ -93,19 +88,19 @@ const Navbar = () => {
       {/* Social Icons */}
       <div className="hidden md:flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0079FF]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0b1119]">
             <a
-              href="https://twitter.com/JudeVector"
+              href="https://twitter.com/judevector"
               className="justify-between flex items-center text-gray-300 w-full"
               target="_blank"
               rel="noreferrer"
             >
-              Twitter <FaTwitter size={30} />
+              X <BsTwitterX size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
-              href="https://github.com/CodeJude"
+              href="https://github.com/judevector"
               className="justify-between flex items-center text-gray-300 w-full"
               target="_blank"
               rel="noreferrer"
