@@ -14,24 +14,20 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold ">
             <p>Take a moment to discover who I am.</p>
             <div className="flex justify-end mt-6 ">
-              <img src={Profile} alt="" className=" w-80 rounded-3xl" />
+              <img src={Profile} alt="" className=" w-60 rounded-3xl" />
             </div>
           </div>
 
           <div>
-            I'm a dedicated backend developer with a passion for crafting the backbone of web
-            applications. I possess a strong command of languages such as Python and JavaScript,
-            alongside frameworks like Node.js and FastAPI, allowing me to excel in server-side
-            development. My journey into backend technologies began with a fascination for
-            problem-solving and a love for creating efficient, scalable systems. Specializing in
-            crafting APIs, managing databases, and architecting core functionalities, I ensure
-            seamless and intuitive user experiences. In addition to my coding expertise, I stay
-            abreast of technological advancements, continuously honing my skills to deliver
-            innovative solutions. When not immersed in lines of code, you'll find me exploring
-            histories, discovering new places, or simply savoring a good cup of coffee. With
-            knowledge in Docker, databases such as PostgreSQL and MongoDB, and cloud hosting using
-            AWS, I'm ready to collaborate and build the robust, reliable backend foundation your
-            project deserves.
+            I'm a dedicated backend developer passionate about crafting the backbone of web
+            applications. With expertise in Python, JavaScript, Node.js, and FastAPI, I excel in
+            server-side development. Specializing in creating APIs, managing databases, and
+            architecting core functionalities, I ensure seamless user experiences. I stay updated
+            with technological advancements, continuously honing my skills. Experienced in Docker,
+            PostgreSQL, MongoDB, and AWS cloud hosting, I'm ready to collaborate on building robust,
+            reliable backend solutions for your project. When not immersed in lines of code, you'll
+            find me exploring histories, discovering new places, or simply savoring a good cup of
+            coffee.
           </div>
         </div>
       </div>

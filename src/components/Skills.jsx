@@ -1,17 +1,4 @@
-import {
-  JavaScript,
-  Aws,
-  Node,
-  Mongo,
-  Docker,
-  Python,
-  Github,
-  TypeScript,
-  Postman,
-  FastAPI,
-  Git,
-  PostgreSQL,
-} from "../assets";
+import { Aws, Node, Docker, TypeScript, Postman, FastAPI, Git, PostgreSQL } from "../assets";
 
 import SkillCard from "./SkillCard";
 
@@ -27,14 +14,10 @@ const Skills = () => {
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           <SkillCard props={{ logo: Node, name: "Nodejs" }} />
           <SkillCard props={{ logo: FastAPI, name: "FastAPI" }} />
-          <SkillCard props={{ logo: Python, name: "Python" }} />
-          <SkillCard props={{ logo: JavaScript, name: "JavaScript" }} />
           <SkillCard props={{ logo: TypeScript, name: "TypeScript" }} />
           <SkillCard props={{ logo: Postman, name: "Postman" }} />
-          <SkillCard props={{ logo: Github, name: "Github" }} />
           <SkillCard props={{ logo: Aws, name: "AWS" }} />
           <SkillCard props={{ logo: Docker, name: "Docker" }} />
-          <SkillCard props={{ logo: Mongo, name: "MongoDB" }} />
           <SkillCard props={{ logo: Git, name: "Git" }} />
           <SkillCard props={{ logo: PostgreSQL, name: "PostgreSQL" }} />
         </div>
