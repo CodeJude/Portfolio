@@ -19,15 +19,17 @@ const About = () => {
           </div>
 
           <div>
-            I'm a dedicated backend developer passionate about crafting the backbone of web
-            applications. With expertise in Python, JavaScript, Node.js, and FastAPI, I excel in
-            server-side development. Specializing in creating APIs, managing databases, and
-            architecting core functionalities, I ensure seamless user experiences. I stay updated
-            with technological advancements, continuously honing my skills. Experienced in Docker,
-            PostgreSQL, MongoDB, and AWS cloud hosting, I'm ready to collaborate on building robust,
-            reliable backend solutions for your project. When not immersed in lines of code, you'll
-            find me exploring histories, discovering new places, or simply savoring a good cup of
-            coffee.
+            I'm a dedicated Backend Developer with a passion for crafting the backbone of web
+            applications. I possess a strong command of languages such as JavaScript and Python,
+            alongside frameworks like Node.js and FastAPI, allowing me to excel in server-side
+            development. My journey into backend technologies began with a fascination for
+            problem-solving and a love for creating efficient, scalable systems. Specializing in
+            crafting APIs, managing databases, and architecting core functionalities, I ensure
+            seamless and intuitive user experiences. In addition to my coding expertise, I stay
+            abreast of technological advancements, continuously honing my skills to deliver
+            innovative solutions. With knowledge in technologies like Docker and databases such as
+            PostgreSQL and MongoDB with cloud hosting like AWS. I'm ready to collaborate and build
+            the robust, reliable backend foundation your project deserves.
           </div>
         </div>
       </div>
