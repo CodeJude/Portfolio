@@ -1,13 +1,5 @@
 import "./index.css";
-import {
-  Navbar,
-  Hero,
-  About,
-  Skills,
-  Work,
-  Contact,
-  Footer,
-} from "./components";
+import { Navbar, Hero, About, Skills, Work, Contact, Footer } from "./components";
 const App = () => (
   <div>
     <Navbar />
