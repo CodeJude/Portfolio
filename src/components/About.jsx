@@ -23,11 +23,11 @@ const About = () => {
             applications. I possess a strong command of languages such as JavaScript and Python,
             alongside frameworks like Node.js and FastAPI, allowing me to excel in server-side
             development. My journey into backend technologies began with a fascination for
-            problem-solving and a love for creating efficient, scalable systems. Specializing in
+            problem-solving with love for creating efficient, scalable systems. Specializing in
             crafting APIs, managing databases, and architecting core functionalities, I ensure
             seamless and intuitive user experiences. In addition to my coding expertise, I stay
             abreast of technological advancements, continuously honing my skills to deliver
-            innovative solutions. With knowledge in technologies like Docker and databases such as
+            innovative solutions. With knowledge in technologies like Docker, databases like
             PostgreSQL and MongoDB with cloud hosting like AWS. I'm ready to collaborate and build
             the robust, reliable backend foundation your project deserves.
           </div>
