@@ -27,9 +27,9 @@ const About = () => {
             crafting APIs, managing databases, and architecting core functionalities, I ensure
             seamless and intuitive user experiences. In addition to my coding expertise, I stay
             abreast of technological advancements, continuously honing my skills to deliver
-            innovative solutions. With knowledge in technologies like Docker, databases like
-            PostgreSQL and MongoDB with cloud hosting like AWS. I'm ready to collaborate and build
-            the robust, reliable backend foundation your project deserves.
+            innovative solutions. With knowledge in Docker, databases like PostgreSQL and MongoDB
+            with cloud hosting like AWS. I'm ready to collaborate and build the robust, reliable
+            backend foundation your project deserves.
           </div>
         </div>
       </div>
