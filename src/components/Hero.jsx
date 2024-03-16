@@ -16,7 +16,7 @@ const Hero = () => {
           I'm a Junior Backend Developer and Blockchain Enthusiast based in the UAE. With over 2
           years of experience and a background in a software engineering program, I bring a
           customer-focused approach and a passion for backend technology to every project.
-          Currently, I'm delving into Rust and Typescript, eager to create impactful solutions in
+          Currently, I'm delving into Typescript and Rust, eager to create impactful solutions in
           backend development.
         </p>
         <div>
